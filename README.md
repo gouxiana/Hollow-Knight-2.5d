@@ -8,7 +8,11 @@ Unity 2.5D 横版动作游戏个人练习项目。
 
 ## 项目演示
 
-- 请在仓库内观看项目演示截图及视频
+- 请在仓库内观看项目演示截图
+- 
+## Demo 演示
+[点击观看或下载 2.5D 空洞骑士 Demo 视频]
+- https://github.com/gouxiana/Hollow-Knight-2.5d/releases/tag/v1.0-demo-video
   
 ## 项目内容
 
